@@ -1,0 +1,13 @@
+This Non-Disclosure Agreement (NDA) is entered into by and between BetaTech Ltd. and Sarah Smith.
+
+1. Confidential Information:
+   Any technical or business information disclosed shall remain confidential.
+
+2. Obligations:
+   The recipient agrees not to disclose or use the confidential information for any purpose other than as specified.
+
+3. Term:
+   The confidentiality obligations shall remain in effect for five years.
+
+4. Jurisdiction:
+   This NDA shall be governed under the jurisdiction of the courts of New York.
